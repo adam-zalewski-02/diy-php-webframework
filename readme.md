@@ -1,5 +1,8 @@
 # DIY
 
+## Description
+- This project is a diy PHP web framework designed with the primary purpose of understanding about the inner workings of web frameworks. It serves as exercise to understand the fundamental components and processes involved in building a web application framework.
+
 ## Structure
 - app
     - Controllers
